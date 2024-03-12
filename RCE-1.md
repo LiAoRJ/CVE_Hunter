@@ -74,10 +74,12 @@ Content-Disposition: form-data; name="btncreate"
 
 The vulnerability lies in the "User Management - Add User " function, you shuold inserts Payload when you update photo，as shown in the following figure：
 
-​![image](assets/image-20240309153602-igp7h78.png)​
+​![image-20240309153602-igp7h78](https://github.com/LiAoRJ/CVE_Hunter/assets/80115065/758b953b-3742-4496-bf6d-13546e1d90f5)
 
-​![image](assets/image-20240309153647-ngyoo56.png)​
+![image-20240309153647-ngyoo56](https://github.com/LiAoRJ/CVE_Hunter/assets/80115065/b2dd8e77-b2e4-4ea0-9e9e-55a6dd3cf0b0)
 
-​![image](assets/image-20240309155540-y6ug2wq.png)​
+​![image-20240309154232-5ru7vex](https://github.com/LiAoRJ/CVE_Hunter/assets/80115065/5234e1fc-a98f-4c13-9395-fb4b2f353ade)
 
-​![image](assets/image-20240309154232-5ru7vex.png)​
+​![image-20240309155540-y6ug2wq](https://github.com/LiAoRJ/CVE_Hunter/assets/80115065/444b2ccd-d325-4de2-9322-0790c4d037fd)
+
+​
